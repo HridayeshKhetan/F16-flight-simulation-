@@ -3,6 +3,7 @@
 This is a real time, 17-state nonlinear flight dynamics simulator of the F 16 aircraft using the publicly available f16 model published in 1979 by NASA and Caltech . 
 
 https://www.cds.caltech.edu/~murray/projects/afosr95-vehicles/models/f16/ 
+
 https://ntrs.nasa.gov/citations/19770009539
 
 It utilizes Python, specifically Taichi and numpy in the backend to simulate complex physics, including a layered atmospheric model that uses data from the U.S. Standard Atmosphere model 1976 for accurate information on temperature,pressure,local air density and lapse rate.
